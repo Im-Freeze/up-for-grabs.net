@@ -1,0 +1,10 @@
+name: IceCreamMC
+desc: A new minecraft server crafted with our new api plus love
+site: https://example.org/your-project-link-here
+tags:
+  - java
+  - minecraft
+  - help wanted
+upforgrabs:
+  name: IceCreamMC
+  link: https://github.com/IceCreamMC
